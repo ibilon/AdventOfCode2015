@@ -1,7 +1,7 @@
 class Main {
 	static function main() {
-		Sys.println("Day12");
-		Sys.println('part 1: ${days.Day12.part1()}');
-		Sys.println('part 2: ${days.Day12.part2()}');
+		Sys.println("Day13");
+		Sys.println('part 1: ${days.Day13.part1()}');
+		Sys.println('part 2: ${days.Day13.part2()}');
 	}
 }
